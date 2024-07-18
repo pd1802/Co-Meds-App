@@ -4,7 +4,7 @@
 login, and logout functionality</li>
   <li> Enabled seamless booking of doctor appointments across various departments, messaging, appointment status tracking, and viewing
 of appointment and doctor visit history.</li>
-  <li>• Created an admin dashboard for uploading new doctor and admin data, and displaying the entire booking history.
+  <li>• Created an admin dashboard for uploading new doctor and admin    data, and displaying the entire booking history.
 </li>
 </p>
 
