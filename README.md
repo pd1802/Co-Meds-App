@@ -1,4 +1,4 @@
-<h1 align="center">Co-Meds</h1>
+<h1 align="center">CoMeds</h1>
 <p>
   <li>Developed a comprehensive hospital management system using React, Node.js, Express, and MongoDB, featuring user registration,
 login, and logout functionality</li>
